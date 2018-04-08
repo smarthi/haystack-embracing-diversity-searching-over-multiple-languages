@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+.cache
+.classpath
+.idea
+.metadata
+.settings
+.project
+.version.properties
+filter.properties
+
+logs.zip
+target
+tmp
+*.class
+*.iml
+*.swp
+*.jar
+*.log
+.DS_Store
+_site
